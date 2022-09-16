@@ -133,7 +133,7 @@
 
 ## 功能模块设计
 
-<img width="25" alt="image" src="https://user-images.githubusercontent.com/71966043/190593592-10253864-e979-4a10-acd6-a73ab8415b8b.png">
+<img width="292" alt="image" src="https://user-images.githubusercontent.com/71966043/190594577-35aa35ee-b2f4-4629-aa50-b95ce2a913c9.png">
 图4-4 系统功能模块图
 
 ## 数据库概念结构设计
